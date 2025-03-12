@@ -1,0 +1,6 @@
+Income,Salary,5000
+Expense,Rent,1200
+Expense,Groceries,300
+Income,Freelance,800
+Expense,Subscriptions,50
+Income,5000,1200.0
